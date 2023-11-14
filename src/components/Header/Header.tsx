@@ -4,7 +4,7 @@ const Header = () => {
     return (
    <div className="section-wrapper"> 
   <header className="header">
-    <div className="logo"><img src="/src/assets/el-buen-sabor.png"></img></div>
+    <div className="logo"><img src="/src/assets/el-buen-sabor.svg"></img></div>
     <nav className="navbar">
      <a href="index.html">INICIO</a>
      <a href="#menu">MENU</a>
